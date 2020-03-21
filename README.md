@@ -5,7 +5,7 @@ A simple web scraper to quickly download all relevant horse-event data from the 
 Prepare an Excel file with the following row called `example.xlsx`
 
 ```
-Place 	  Country	Start	  End	    Classes
+Place 	    Country	Start	  End	    Classes
 Vilamoura	POR	    10/1/18	10/7/18	CSI1*, CSI3*, CSIYH1*
 ```
 
